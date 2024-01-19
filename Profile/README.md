@@ -23,5 +23,5 @@ Our dedication to open source will be the most important piece of this project. 
 ## Contributors
 [Dakota](github.com/themanwiththeplan-eng) - Owner and Project Lead
 
-<p>Please feel free to approach me with any questions also in our [Discord](https://discord.gg/gytc3hcQzz). We will need bot developers and people who are willing to work on the channels to get everything set up and this is a great way to start contributing if you're not as a technical. Thank you!</p>
+Please feel free to approach me with any questions also in our [Discord](https://discord.gg/gytc3hcQzz). We will need bot developers and people who are willing to work on the channels to get everything set up and this is a great way to start contributing if you're not as a technical. Thank you!
 
