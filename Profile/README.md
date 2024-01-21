@@ -21,8 +21,8 @@ Our dedication to open source will be the most important piece of this project. 
 <p>Currently, the project is in its infancy and we are looking for people that are willing to help build the community and help build the project. If you are interested in becoming a maintainer, please email keystoneopensrc@gmail.com. </p>
 
 ## Contributors
-[Dakota](github.com/themanwiththeplan-eng) - Owner and Project Lead
-[0xSingularity](https://github.com/0x-Singularity) - Dev Lead and Core Maintainer
+- [Dakota](github.com/themanwiththeplan-eng) - Owner and Project Lead
+- [0xSingularity](https://github.com/0x-Singularity) - Dev Lead and Core Maintainer
 
 Please feel free to approach me with any questions also in our [Discord](https://discord.gg/gytc3hcQzz). If you'd like to add to a discussion, feel free to jump over [here](https://github.com/orgs/ProjectKeystone/discussions) to ask questions and give input on what we should build. We will need bot developers and people who are willing to work on the channels to get everything set up and this is a great way to start contributing if you're not as a technical. Thank you!
 
